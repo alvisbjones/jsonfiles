@@ -35,7 +35,7 @@
                 "lastName": "Leister",
                 "email": "mleister60@hotmail.com",
                 "phone": " ",
-                "hdcpIndex": 6
+                "hdcpIndex": 5
             }
         ]
     },
@@ -183,7 +183,7 @@
                 "lastName": "Gibbons",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 9
+                "hdcpIndex": 10
             },
             {
                 "pid": 60,
@@ -191,7 +191,7 @@
                 "lastName": "Garcia",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 15
+                "hdcpIndex": 16
             },
             {
                 "pid": 104,
@@ -199,7 +199,7 @@
                 "lastName": "Garcia",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 10
+                "hdcpIndex": 11
             }
         ]
     },
@@ -409,7 +409,7 @@
                 "lastName": "Rose",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 8
+                "hdcpIndex": 9
             },
             {
                 "pid": 76,
@@ -425,7 +425,7 @@
                 "lastName": "Knowles",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 3
+                "hdcpIndex": 4
             }
         ]
     },
