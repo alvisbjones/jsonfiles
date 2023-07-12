@@ -130,6 +130,14 @@
                 "email": " ",
                 "phone": " ",
                 "hdcpIndex": 8
+            },
+            {
+                "pid": 110,
+                "firstName": "Jeff",
+                "lastName": "Seekatz",
+                "email": "",
+                "phone": "",
+                "hdcpIndex": 7
             }
         ]
     },
@@ -370,7 +378,7 @@
                 "lastName": "Taylor",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 15
+                "hdcpIndex": 14
             },
             {
                 "pid": 84,
@@ -378,7 +386,7 @@
                 "lastName": "Taylor",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 14
+                "hdcpIndex": 15
             },
             {
                 "pid": 108,
@@ -527,7 +535,7 @@
                 "lastName": "Churchill",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 11
+                "hdcpIndex": 10
             },
             {
                 "pid": 106,
