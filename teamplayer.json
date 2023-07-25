@@ -207,7 +207,7 @@
                 "lastName": "Garcia",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 11
+                "hdcpIndex": 12
             }
         ]
     },
@@ -292,7 +292,7 @@
                 "lastName": "Smith",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 7
+                "hdcpIndex": 6
             },
             {
                 "pid": 41,
@@ -535,7 +535,7 @@
                 "lastName": "Churchill",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 10
+                "hdcpIndex": 11
             },
             {
                 "pid": 106,
