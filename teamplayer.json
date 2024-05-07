@@ -181,40 +181,9 @@
         ]
     },
     {
-        "id": 8,
-        "name": "GopherKillers",
-        "number": 5,
-        "players": [
-            {
-                "pid": 27,
-                "firstName": "Bob",
-                "lastName": "Gibbons",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 9
-            },
-            {
-                "pid": 60,
-                "firstName": "Joan",
-                "lastName": "Garcia",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 17
-            },
-            {
-                "pid": 104,
-                "firstName": "Rick",
-                "lastName": "Garcia",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 12
-            }
-        ]
-    },
-    {
         "id": 9,
         "name": "Doctor is in",
-        "number": 6,
+        "number": 5,
         "players": [
             {
                 "pid": 15,
@@ -245,7 +214,7 @@
     {
         "id": 12,
         "name": "We'll Do Better Next Year",
-        "number": 7,
+        "number": 6,
         "players": [
             {
                 "pid": 91,
@@ -284,7 +253,7 @@
     {
         "id": 13,
         "name": "Double Bogey Blues",
-        "number": 8,
+        "number": 7,
         "players": [
             {
                 "pid": 3,
@@ -315,7 +284,7 @@
     {
         "id": 14,
         "name": "The Muggers",
-        "number": 9,
+        "number": 8,
         "players": [
             {
                 "pid": 10,
@@ -362,7 +331,7 @@
     {
         "id": 15,
         "name": "Mulligan's Heroes",
-        "number": 10,
+        "number": 9,
         "players": [
             {
                 "pid": 65,
@@ -401,7 +370,7 @@
     {
         "id": 16,
         "name": "Handicapped",
-        "number": 11,
+        "number": 10,
         "players": [
             {
                 "pid": 1,
@@ -440,7 +409,7 @@
     {
         "id": 17,
         "name": "TBD",
-        "number": 12,
+        "number": 11,
         "players": [
             {
                 "pid": 18,
@@ -495,7 +464,7 @@
     {
         "id": 18,
         "name": "Gopher Broke",
-        "number": 13,
+        "number": 12,
         "players": [
             {
                 "pid": 16,
@@ -546,6 +515,12 @@
                 "hdcpIndex": 0
             }
         ]
+    },
+    {
+        "id": 8,
+        "name": "GopherKillers",
+        "number": 13,
+        "players": []
     }
 ]
 }
