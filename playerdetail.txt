@@ -1,6 +1,6 @@
 
  Handicaps updated
- 24/06/12 15:56:30
+ 24/06/19 12:57:39
 -----Player Detail Score Report-------------
 --(scores listed new to old, right to left)-
 --------------------------------------------
@@ -167,6 +167,10 @@ David Kelly (14.7)-> 8 lowest
 Seth Kelly (18.9)-> 8 lowest
 
 65 61 64 66 59 51* 60 59* 60 59* 59* 63 61 54* 60 61 57* 65 57* 55*  
+----------------------------------------
+Richard Kelly (6.5)-> 1 lowest
+
+42 42* 48  
 ----------------------------------------
 Jeff Kenny (6.2)-> 3 lowest
 
