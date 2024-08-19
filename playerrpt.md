@@ -31,7 +31,7 @@
 | 28  | Rick      | Grimm       | M      | 15.0      | 0        |
 | 31  | Doc       | Haggard     | M      | 4.8       | 0        |
 | 96  | Tim       | Halliday    | M      | 6.1       | 0        |
-| 9   | Bill      | Harrell     | M      | 4.6       | 0        |
+| 9   | Bill      | Harrell     | M      | 4.8       | 0        |
 | 18  | Matt      | Harris      | M      | 20.6      | 0        |
 | 72  | Alex      | Hill        | M      | 9.5       | 0        |
 | 54  | Frank     | Holomshek   | M      | 1.9       | 0        |
@@ -49,7 +49,7 @@
 | 26  | Phil      | Laas        | M      | 7.3       | 0        |
 | 91  | Tom       | Lahutsky    | M      | 7.6       | 0        |
 | 101 | Roger     | Lancaster   | M      | 6.5       | 0        |
-| 1   | Jeff      | Lance       | M      | 6.3       | 0        |
+| 1   | Jeff      | Lance       | M      | 6.4       | 0        |
 | 86  | Marty     | Leister     | M      | 4.8       | 0        |
 | 15  | Karl      | Lewis       | M      | 5.2       | 0        |
 | 41  | Kevin     | Livesey     | M      | 9.1       | 0        |
@@ -64,7 +64,7 @@
 | 92  | Dick      | Miller      | M      | 7.6       | 0        |
 | 78  | Mukesh    | Mirchandani | M      | 8.8       | 0        |
 | 105 | Rodney    | Mobley      | M      | 9.9       | 0        |
-| 48  | David     | Montgomery  | M      | 6.0       | 0        |
+| 48  | David     | Montgomery  | M      | 5.9       | 0        |
 | 46  | Craig     | Morrison    | M      | 10.2      | 0        |
 | 59  | Vash      | Narula      | M      | 4.5       | 0        |
 | 70  | Joe       | Opiola      | M      | 8.0       | 0        |
@@ -92,7 +92,7 @@
 | 17  | Mike      | Sweeney     | M      | 6.1       | 0        |
 | 14  | Jp        | Taylor      | M      | 14.0      | 0        |
 | 83  | Tim       | Taylor      | M      | 14.3      | 0        |
-| 84  | Sherrie   | Taylor      | F      | 16.4      | 0        |
+| 84  | Sherrie   | Taylor      | F      | 17.5      | 0        |
 | 25  | Mike      | Thomas      | M      | 5.9       | 0        |
 | 13  | Doug      | Tinker      | M      | 4.6       | 0        |
 | 75  | Greg      | Urquhart    | M      | 4.4       | 0        |
