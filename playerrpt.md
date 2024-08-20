@@ -3,7 +3,7 @@
 | 32  | Dennis    | Ardizzoni   | M      | 7.2       | 0        |
 | 108 | Brad      | Balthrop    | M      | 11.2      | 0        |
 | 38  | Richard   | Blanford    | M      | 3.2       | 0        |
-| 24  | Tim       | Bogert      | M      | 7.4       | 0        |
+| 24  | Tim       | Bogert      | M      | 7.1       | 0        |
 | 89  | Steve     | Brigante    | M      | 8.8       | 0        |
 | 43  | Ken       | Burdette    | M      | 13.2      | 0        |
 | 87  | Ron       | Burdette    | M      | 10.3      | 0        |
@@ -40,7 +40,7 @@
 | 57  | Scott     | Jones       | M      | 14.3      | 0        |
 | 98  | Russell   | Jordan      | M      | 8.8       | 0        |
 | 109 | Thomas    | Jordan      | M      | 9.0       | 0        |
-| 35  | David     | Kelly       | M      | 15.2      | 0        |
+| 35  | David     | Kelly       | M      | 15.3      | 0        |
 | 36  | Seth      | Kelly       | M      | 18.9      | 0        |
 | 112 | Richard   | Kelly       | M      | 13.4      | 0        |
 | 61  | Jeff      | Kenny       | M      | 6.2       | 0        |
@@ -98,7 +98,7 @@
 | 75  | Greg      | Urquhart    | M      | 4.4       | 0        |
 | 55  | Rob       | Van Zeeland | M      | 5.8       | 0        |
 | 30  | Tom       | Vandenberge | M      | 17.5      | 0        |
-| 40  | Mark      | Weldele     | M      | 12.7      | 0        |
+| 40  | Mark      | Weldele     | M      | 13.6      | 0        |
 | 99  | Brad      | Weldon      | M      | 7.0       | 0        |
 | 107 | Steve     | Wendler     | M      | 0         | 0        |
 | 94  | John      | West        | M      | 5.2       | 0        |
