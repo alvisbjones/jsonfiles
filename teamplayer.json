@@ -92,6 +92,14 @@
         "number": 3,
         "players": [
             {
+                "pid": 13,
+                "firstName": "Doug",
+                "lastName": "Tinker",
+                "email": " ",
+                "phone": " ",
+                "hdcpIndex": 5
+            },
+            {
                 "pid": 24,
                 "firstName": "Tim",
                 "lastName": "Bogert",
