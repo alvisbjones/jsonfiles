@@ -301,7 +301,7 @@
                 "lastName": "Smith",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 0
+                "hdcpIndex": -1
             }
         ]
     },
@@ -473,7 +473,7 @@
                 "lastName": "Sopko",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 22
+                "hdcpIndex": 23
             },
             {
                 "pid": 107,
@@ -504,7 +504,7 @@
                 "lastName": "Kelly",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 15
+                "hdcpIndex": 16
             },
             {
                 "pid": 37,
@@ -528,7 +528,7 @@
                 "lastName": "Churchill",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 11
+                "hdcpIndex": 10
             },
             {
                 "pid": 112,
