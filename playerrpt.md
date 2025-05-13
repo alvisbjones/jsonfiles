@@ -33,6 +33,7 @@
 | 96  | Tim       | Halliday    | M      | 6.1       | 0        |
 | 9   | Bill      | Harrell     | M      | 4.8       | 0        |
 | 18  | Matt      | Harris      | M      | 20.5      | 0        |
+| 115 | Andy      | Higgins     | M      | 9.8       | 0        |
 | 72  | Alex      | Hill        | M      | 9.5       | 0        |
 | 54  | Frank     | Holomshek   | M      | 1.9       | 0        |
 | 47  | Lee       | Hubbard     | M      | 6.9       | 0        |
@@ -68,12 +69,14 @@
 | 46  | Craig     | Morrison    | M      | 10.2      | 0        |
 | 59  | Vash      | Narula      | M      | 4.2       | 0        |
 | 70  | Joe       | Opiola      | M      | 8.0       | 0        |
+| 113 | Todd      | Osterling   | M      | 18.8      | 0        |
 | 7   | Mark      | Pablo       | M      | 10.8      | 0        |
 | 106 | Gyoungwon | Park        | M      | 0         | 0        |
 | 49  | Sue       | Poppens     | F      | 12.8      | 0        |
 | 19  | Craig     | Prascher    | M      | 8.8       | 0        |
 | 12  | Scott     | Rigby       | M      | 5.1       | 0        |
 | 103 | Wendall   | Ritz        | M      | 13.6      | 0        |
+| 114 | Jerry     | Robbins     | M      | 19.6      | 0        |
 | 45  | Steve     | Ropp        | M      | 9.5       | 0        |
 | 29  | Ed        | Rose        | M      | 9.6       | 0        |
 | 82  | Chuck     | Roth        | M      | 10.8      | 0        |
