@@ -72,6 +72,7 @@
 | 113 | Todd      | Osterling   | M      | 18.8      | 0        |
 | 7   | Mark      | Pablo       | M      | 10.8      | 0        |
 | 106 | Gyoungwon | Park        | M      | 0         | 0        |
+| 116 | Chris     | Peake       | M      | 15.2      | 0        |
 | 49  | Sue       | Poppens     | F      | 12.8      | 0        |
 | 19  | Craig     | Prascher    | M      | 8.8       | 0        |
 | 12  | Scott     | Rigby       | M      | 5.1       | 0        |
