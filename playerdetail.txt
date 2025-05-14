@@ -1,6 +1,6 @@
 
  Handicaps updated
- 25/05/13 21:07:28
+ 25/05/14 10:11:47
 -----Player Detail Score Report-------------
 --(scores listed new to old, right to left)-
 --------------------------------------------
@@ -308,9 +308,9 @@ Wendall Ritz (13.6)-> 8 lowest
 
 61 66 53 52* 51* 48* 48* 47* 53 53 57 50* 62 48* 55 56 54 51* 56 54  
 ----------------------------------------
-Jerry Robbins (19.6)-> 1 lowest
+Jerry Robbins (14.7)-> 1 lowest
 
-53 53 53*  
+49 49 49*  
 ----------------------------------------
 Steve Ropp (9.5)-> 8 lowest
 

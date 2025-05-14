@@ -77,7 +77,7 @@
 | 19  | Craig     | Prascher    | M      | 8.8       | 0        |
 | 12  | Scott     | Rigby       | M      | 5.1       | 0        |
 | 103 | Wendall   | Ritz        | M      | 13.6      | 0        |
-| 114 | Jerry     | Robbins     | M      | 19.6      | 0        |
+| 114 | Jerry     | Robbins     | M      | 14.7      | 0        |
 | 45  | Steve     | Ropp        | M      | 9.5       | 0        |
 | 29  | Ed        | Rose        | M      | 9.6       | 0        |
 | 82  | Chuck     | Roth        | M      | 10.8      | 0        |
