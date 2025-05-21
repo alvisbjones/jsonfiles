@@ -92,6 +92,7 @@
 | 88  | John      | Sopko       | M      | 22.8      | 0        |
 | 69  | Bob       | Spain       | M      | 4.5       | 0        |
 | 53  | Shane     | Stelmach    | M      | 11.9      | 0        |
+| 117 | Greg      | Strenger    | M      | 7.2       | 0        |
 | 71  | Richard   | Stubing     | M      | 0.4       | 0        |
 | 17  | Mike      | Sweeney     | M      | 6.1       | 0        |
 | 14  | Jp        | Taylor      | M      | 14.0      | 0        |

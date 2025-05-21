@@ -1,6 +1,6 @@
 
  Handicaps updated
- 25/05/19 12:01:16
+ 25/05/21 11:06:59
 -----Player Detail Score Report-------------
 --(scores listed new to old, right to left)-
 --------------------------------------------
@@ -367,6 +367,10 @@ Bob Spain (4.5)-> 8 lowest
 Shane Stelmach (11.9)-> 8 lowest
 
 50* 56 56 49* 51 45* 54 49* 53 49* 54 53 48* 50* 56 51 52 54 57 48*  
+----------------------------------------
+Greg Strenger (7.2)-> 1 lowest
+
+43 43 43*  
 ----------------------------------------
 Richard Stubing (0.4)-> 6 lowest
 
