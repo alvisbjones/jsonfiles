@@ -20,13 +20,13 @@
 | 66  | Chris     | Davis       | M      | 12.4      | 0        |
 | 67  | Brian     | Depaul      | M      | 18.2      | 0        |
 | 63  | Randy     | Depwe       | M      | 15.2      | 0        |
-| 51  | Les       | Dutcher     | M      | 11.7      | 0        |
+| 51  | Les       | Dutcher     | M      | 11.6      | 0        |
 | 79  | Rex       | Foster      | M      | 5.5       | 0        |
 | 60  | Joan      | Garcia      | F      | 16.6      | 0        |
 | 104 | Rick      | Garcia      | M      | 11.9      | 0        |
 | 5   | John      | Gertas      | M      | 15.1      | 0        |
 | 27  | Bob       | Gibbons     | M      | 9.7       | 0        |
-| 62  | Stephen   | Graham      | M      | 11.7      | 0        |
+| 62  | Stephen   | Graham      | M      | 11.6      | 0        |
 | 37  | Jim       | Gravley     | M      | 6.7       | 0        |
 | 28  | Rick      | Grimm       | M      | 15.0      | 0        |
 | 31  | Doc       | Haggard     | M      | 4.8       | 0        |
@@ -40,7 +40,7 @@
 | 4   | Brent     | Jones       | M      | 4.4       | 0        |
 | 57  | Scott     | Jones       | M      | 14.3      | 0        |
 | 98  | Russell   | Jordan      | M      | 8.8       | 0        |
-| 109 | Thomas    | Jordan      | M      | 9.0       | 0        |
+| 109 | Thomas    | Jordan      | M      | 9.4       | 0        |
 | 35  | David     | Kelly       | M      | 15.8      | 0        |
 | 36  | Seth      | Kelly       | M      | 18.9      | 0        |
 | 112 | Richard   | Kelly       | M      | 13.4      | 0        |
@@ -52,15 +52,15 @@
 | 101 | Roger     | Lancaster   | M      | 6.5       | 0        |
 | 1   | Jeff      | Lance       | M      | 6.7       | 0        |
 | 86  | Marty     | Leister     | M      | 4.8       | 0        |
-| 15  | Karl      | Lewis       | M      | 4.4       | 0        |
+| 15  | Karl      | Lewis       | M      | 4.5       | 0        |
 | 41  | Kevin     | Livesey     | M      | 9.3       | 0        |
 | 81  | Chuck     | Locke       | M      | 9.7       | 0        |
 | 10  | Kris      | Loia        | M      | 7.2       | 0        |
 | 2   | Tim       | Lowrey      | M      | 15.2      | 0        |
 | 58  | Ed        | MacHendrie  | M      | 5.2       | 0        |
 | 33  | Tom       | Maguire     | M      | 9.2       | 0        |
-| 102 | David     | Mauriello   | M      | 4.7       | 0        |
-| 21  | Robert    | McEntire    | M      | 10.6      | 0        |
+| 102 | David     | Mauriello   | M      | 4.5       | 0        |
+| 21  | Robert    | McEntire    | M      | 11.2      | 0        |
 | 100 | Terry     | McLachlan   | M      | 3.8       | 0        |
 | 92  | Dick      | Miller      | M      | 7.6       | 0        |
 | 78  | Mukesh    | Mirchandani | M      | 8.8       | 0        |
@@ -73,7 +73,7 @@
 | 7   | Mark      | Pablo       | M      | 10.8      | 0        |
 | 106 | Gyoungwon | Park        | M      | 0         | 0        |
 | 116 | Chris     | Peake       | M      | 15.2      | 0        |
-| 49  | Sue       | Poppens     | F      | 13.5      | 0        |
+| 49  | Sue       | Poppens     | F      | 14.0      | 0        |
 | 19  | Craig     | Prascher    | M      | 8.8       | 0        |
 | 12  | Scott     | Rigby       | M      | 5.1       | 0        |
 | 103 | Wendall   | Ritz        | M      | 13.6      | 0        |
@@ -88,8 +88,8 @@
 | 11  | Jeff      | Sherer      | M      | 7.3       | 0        |
 | 111 | Jesse     | Simonson    | M      | 5.5       | 0        |
 | 3   | Tim       | Smith       | M      | 4.8       | 0        |
-| 74  | Josh      | Smith       | M      | -1.3      | 0        |
-| 88  | John      | Sopko       | M      | 22.8      | 0        |
+| 74  | Josh      | Smith       | M      | -1.1      | 0        |
+| 88  | John      | Sopko       | M      | 23.0      | 0        |
 | 69  | Bob       | Spain       | M      | 4.5       | 0        |
 | 53  | Shane     | Stelmach    | M      | 11.9      | 0        |
 | 117 | Greg      | Strenger    | M      | 7.2       | 0        |
@@ -103,7 +103,7 @@
 | 75  | Greg      | Urquhart    | M      | 4.4       | 0        |
 | 55  | Rob       | Van Zeeland | M      | 5.8       | 0        |
 | 30  | Tom       | Vandenberge | M      | 17.5      | 0        |
-| 40  | Mark      | Weldele     | M      | 13.6      | 0        |
+| 40  | Mark      | Weldele     | M      | 13.8      | 0        |
 | 99  | Brad      | Weldon      | M      | 7.0       | 0        |
 | 107 | Steve     | Wendler     | M      | 0         | 0        |
 | 94  | John      | West        | M      | 5.2       | 0        |
