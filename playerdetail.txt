@@ -1,6 +1,6 @@
 
  Handicaps updated
- 25/06/04 12:29:26
+ 25/06/04 13:04:08
 -----Player Detail Score Report-------------
 --(scores listed new to old, right to left)-
 --------------------------------------------
@@ -187,6 +187,10 @@ Jordan Knowles (3.6)-> 8 lowest
 David Knowles (3.6)-> 8 lowest
 
 50 41 39* 44 45 40 44 36* 40 46 39* 44 42 40* 40* 40* 42 40* 44 39*  
+----------------------------------------
+Caelan Knowles (9.6)-> 1 lowest
+
+47 47 47*  
 ----------------------------------------
 Phil Laas (7.3)-> 8 lowest
 

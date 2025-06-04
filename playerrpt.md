@@ -47,6 +47,7 @@
 | 61  | Jeff      | Kenny       | M      | 6.2       | 0        |
 | 76  | Jordan    | Knowles     | M      | 3.6       | 0        |
 | 95  | David     | Knowles     | M      | 3.6       | 0        |
+| 119 | Caelan    | Knowles     | M      | 9.6       | 0        |
 | 26  | Phil      | Laas        | M      | 7.3       | 0        |
 | 91  | Tom       | Lahutsky    | M      | 7.8       | 0        |
 | 101 | Roger     | Lancaster   | M      | 6.5       | 0        |
