@@ -90,7 +90,7 @@
                 "lastName": "Strenger",
                 "email": "",
                 "phone": "",
-                "hdcpIndex": 7
+                "hdcpIndex": 4
             }
         ]
     },
@@ -232,6 +232,14 @@
                 "email": "",
                 "phone": "",
                 "hdcpIndex": 6
+            },
+            {
+                "pid": 118,
+                "firstName": "Steve",
+                "lastName": "O'Kelly",
+                "email": "",
+                "phone": "",
+                "hdcpIndex": 6
             }
         ]
     },
@@ -301,7 +309,7 @@
                 "lastName": "Livesey",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 9
+                "hdcpIndex": 10
             },
             {
                 "pid": 74,
@@ -481,7 +489,7 @@
                 "lastName": "Dutcher",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 12
+                "hdcpIndex": 11
             },
             {
                 "pid": 88,
