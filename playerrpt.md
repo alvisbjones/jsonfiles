@@ -2,7 +2,7 @@
 |-----|-----------|-------------|--------|-----------|----------|
 | 32  | Dennis    | Ardizzoni   | M      | 7.2       | 0        |
 | 108 | Brad      | Balthrop    | M      | 11.2      | 0        |
-| 38  | Richard   | Blanford    | M      | 3.2       | 0        |
+| 38  | Richard   | Blanford    | M      | 3.4       | 0        |
 | 24  | Tim       | Bogert      | M      | 7.4       | 0        |
 | 89  | Steve     | Brigante    | M      | 8.8       | 0        |
 | 43  | Ken       | Burdette    | M      | 13.2      | 0        |
@@ -31,8 +31,8 @@
 | 28  | Rick      | Grimm       | M      | 15.0      | 0        |
 | 31  | Doc       | Haggard     | M      | 4.8       | 0        |
 | 96  | Tim       | Halliday    | M      | 6.1       | 0        |
-| 9   | Bill      | Harrell     | M      | 4.8       | 0        |
-| 18  | Matt      | Harris      | M      | 20.5      | 0        |
+| 9   | Bill      | Harrell     | M      | 4.9       | 0        |
+| 18  | Matt      | Harris      | M      | 19.9      | 0        |
 | 115 | Andy      | Higgins     | M      | 9.8       | 0        |
 | 72  | Alex      | Hill        | M      | 9.5       | 0        |
 | 54  | Frank     | Holomshek   | M      | 1.9       | 0        |
@@ -41,7 +41,7 @@
 | 57  | Scott     | Jones       | M      | 14.3      | 0        |
 | 98  | Russell   | Jordan      | M      | 8.8       | 0        |
 | 109 | Thomas    | Jordan      | M      | 9.4       | 0        |
-| 35  | David     | Kelly       | M      | 15.8      | 0        |
+| 35  | David     | Kelly       | M      | 16.1      | 0        |
 | 36  | Seth      | Kelly       | M      | 18.9      | 0        |
 | 112 | Richard   | Kelly       | M      | 13.4      | 0        |
 | 61  | Jeff      | Kenny       | M      | 6.2       | 0        |
@@ -52,7 +52,7 @@
 | 91  | Tom       | Lahutsky    | M      | 7.8       | 0        |
 | 101 | Roger     | Lancaster   | M      | 6.5       | 0        |
 | 1   | Jeff      | Lance       | M      | 6.7       | 0        |
-| 86  | Marty     | Leister     | M      | 4.8       | 0        |
+| 86  | Marty     | Leister     | M      | 5.0       | 0        |
 | 15  | Karl      | Lewis       | M      | 4.5       | 0        |
 | 41  | Kevin     | Livesey     | M      | 9.5       | 0        |
 | 81  | Chuck     | Locke       | M      | 9.7       | 0        |
@@ -61,7 +61,7 @@
 | 58  | Ed        | MacHendrie  | M      | 5.2       | 0        |
 | 33  | Tom       | Maguire     | M      | 9.2       | 0        |
 | 102 | David     | Mauriello   | M      | 4.3       | 0        |
-| 21  | Robert    | McEntire    | M      | 11.2      | 0        |
+| 21  | Robert    | McEntire    | M      | 11.7      | 0        |
 | 100 | Terry     | McLachlan   | M      | 3.8       | 0        |
 | 92  | Dick      | Miller      | M      | 7.6       | 0        |
 | 78  | Mukesh    | Mirchandani | M      | 8.8       | 0        |
@@ -69,7 +69,7 @@
 | 48  | David     | Montgomery  | M      | 5.9       | 0        |
 | 46  | Craig     | Morrison    | M      | 10.2      | 0        |
 | 59  | Vash      | Narula      | M      | 4.2       | 0        |
-| 118 | Steve     | O'Kelly     | M      | 6.2       | 0        |
+| 118 | Steve     | O'Kelly     | M      | 3.6       | 0        |
 | 70  | Joe       | Opiola      | M      | 8.0       | 0        |
 | 113 | Todd      | Osterling   | M      | 18.8      | 0        |
 | 7   | Mark      | Pablo       | M      | 10.8      | 0        |
@@ -83,7 +83,7 @@
 | 45  | Steve     | Ropp        | M      | 9.5       | 0        |
 | 29  | Ed        | Rose        | M      | 10.2      | 0        |
 | 82  | Chuck     | Roth        | M      | 10.8      | 0        |
-| 85  | Mike      | Saltmachia  | M      | 2.1       | 0        |
+| 85  | Mike      | Saltmachia  | M      | 2.0       | 0        |
 | 39  | Thomas    | Schattner   | M      | 4.6       | 0        |
 | 110 | Jeff      | Seekatz     | M      | 7.2       | 0        |
 | 34  | Justin    | Seymour     | M      | 9.4       | 0        |
@@ -98,7 +98,7 @@
 | 71  | Richard   | Stubing     | M      | 0.4       | 0        |
 | 17  | Mike      | Sweeney     | M      | 6.1       | 0        |
 | 14  | Jp        | Taylor      | M      | 14.0      | 0        |
-| 83  | Tim       | Taylor      | M      | 14.3      | 0        |
+| 83  | Tim       | Taylor      | M      | 14.6      | 0        |
 | 84  | Sherrie   | Taylor      | F      | 18.4      | 0        |
 | 25  | Mike      | Thomas      | M      | 5.9       | 0        |
 | 13  | Doug      | Tinker      | M      | 5.0       | 0        |
@@ -118,4 +118,4 @@
 | 44  | Garrett   | Young       | M      | 12.8      | 0        |
 | 50  | Gary      | Young       | M      | 1.8       | 0        |
 | 93  | Mark      | Zahorik     | M      | 10.3      | 0        |
-| 65  | Bill      | Zakareckis  | M      | 8.1       | 0        |
+| 65  | Bill      | Zakareckis  | M      | 8.7       | 0        |

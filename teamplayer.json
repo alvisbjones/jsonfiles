@@ -239,7 +239,7 @@
                 "lastName": "O'Kelly",
                 "email": "",
                 "phone": "",
-                "hdcpIndex": 6
+                "hdcpIndex": 4
             }
         ]
     },
@@ -340,7 +340,7 @@
                 "lastName": "McEntire",
                 "email": "robertmcentire@usa.net",
                 "phone": "214-808-4040",
-                "hdcpIndex": 11
+                "hdcpIndex": 12
             },
             {
                 "pid": 62,
@@ -379,7 +379,7 @@
                 "lastName": "Zakareckis",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 8
+                "hdcpIndex": 9
             },
             {
                 "pid": 83,
@@ -387,7 +387,7 @@
                 "lastName": "Taylor",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 14
+                "hdcpIndex": 15
             },
             {
                 "pid": 84,
