@@ -113,7 +113,7 @@
                 "lastName": "Bogert",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 8
+                "hdcpIndex": 7
             },
             {
                 "pid": 49,
@@ -121,7 +121,7 @@
                 "lastName": "Poppens",
                 "email": "suepoppens@yahoo.com",
                 "phone": "972-896-3406",
-                "hdcpIndex": 15
+                "hdcpIndex": 14
             },
             {
                 "pid": 80,
@@ -239,7 +239,7 @@
                 "lastName": "O'Kelly",
                 "email": "",
                 "phone": "",
-                "hdcpIndex": 4
+                "hdcpIndex": 2
             }
         ]
     },
@@ -270,7 +270,7 @@
                 "lastName": "Mauriello",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 4
+                "hdcpIndex": 6
             },
             {
                 "pid": 109,
@@ -317,7 +317,7 @@
                 "lastName": "Smith",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": -1
+                "hdcpIndex": 0
             }
         ]
     },
@@ -379,7 +379,7 @@
                 "lastName": "Zakareckis",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 10
+                "hdcpIndex": 9
             },
             {
                 "pid": 83,
@@ -458,7 +458,7 @@
                 "lastName": "Knowles",
                 "email": "",
                 "phone": "",
-                "hdcpIndex": 10
+                "hdcpIndex": 8
             }
         ]
     },
@@ -552,7 +552,7 @@
                 "lastName": "Churchill",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 9
+                "hdcpIndex": 10
             },
             {
                 "pid": 112,
