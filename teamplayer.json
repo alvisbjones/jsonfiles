@@ -145,7 +145,7 @@
                 "lastName": "Peake",
                 "email": "",
                 "phone": "",
-                "hdcpIndex": 13
+                "hdcpIndex": 15
             }
         ]
     },
@@ -278,7 +278,7 @@
                 "lastName": "Jordan",
                 "email": "thomas.ed.jordan@gmail.com",
                 "phone": "",
-                "hdcpIndex": 10
+                "hdcpIndex": 9
             }
         ]
     },
@@ -309,7 +309,7 @@
                 "lastName": "Livesey",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 9
+                "hdcpIndex": 10
             },
             {
                 "pid": 74,
@@ -317,7 +317,7 @@
                 "lastName": "Smith",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 0
+                "hdcpIndex": -1
             }
         ]
     },
@@ -340,7 +340,7 @@
                 "lastName": "McEntire",
                 "email": "robertmcentire@usa.net",
                 "phone": "214-808-4040",
-                "hdcpIndex": 11
+                "hdcpIndex": 12
             },
             {
                 "pid": 62,
@@ -379,7 +379,7 @@
                 "lastName": "Zakareckis",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 9
+                "hdcpIndex": 8
             },
             {
                 "pid": 83,
@@ -497,7 +497,7 @@
                 "lastName": "Dutcher",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 11
+                "hdcpIndex": 12
             },
             {
                 "pid": 88,
