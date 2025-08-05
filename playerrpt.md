@@ -53,7 +53,7 @@
 | 101 | Roger     | Lancaster   | M      | 6.5       | 0        |
 | 1   | Jeff      | Lance       | M      | 6.8       | 0        |
 | 86  | Marty     | Leister     | M      | 5.7       | 0        |
-| 15  | Karl      | Lewis       | M      | 4.4       | 0        |
+| 15  | Karl      | Lewis       | M      | 4.5       | 0        |
 | 41  | Kevin     | Livesey     | M      | 9.6       | 0        |
 | 81  | Chuck     | Locke       | M      | 9.7       | 0        |
 | 10  | Kris      | Loia        | M      | 8.0       | 0        |
@@ -75,7 +75,7 @@
 | 7   | Mark      | Pablo       | M      | 10.8      | 0        |
 | 106 | Gyoungwon | Park        | M      | 0         | 0        |
 | 116 | Chris     | Peake       | M      | 14.8      | 0        |
-| 49  | Sue       | Poppens     | F      | 14.2      | 0        |
+| 49  | Sue       | Poppens     | F      | 15.1      | 0        |
 | 19  | Craig     | Prascher    | M      | 8.8       | 0        |
 | 12  | Scott     | Rigby       | M      | 5.1       | 0        |
 | 103 | Wendall   | Ritz        | M      | 13.6      | 0        |
