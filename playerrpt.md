@@ -6,7 +6,7 @@
 | 24  | Tim       | Bogert      | M      | 7.2       | 0        |
 | 89  | Steve     | Brigante    | M      | 8.8       | 0        |
 | 43  | Ken       | Burdette    | M      | 14.2      | 0        |
-| 87  | Ron       | Burdette    | M      | 8.6       | 0        |
+| 87  | Ron       | Burdette    | M      | 9.2       | 0        |
 | 42  | Tom       | Buttner     | M      | 17.1      | 0        |
 | 73  | Alfonso   | Cadena      | M      | 17.2      | 0        |
 | 64  | Steve     | Cardwell    | M      | 6.5       | 0        |
@@ -98,7 +98,7 @@
 | 71  | Richard   | Stubing     | M      | 0.4       | 0        |
 | 17  | Mike      | Sweeney     | M      | 6.1       | 0        |
 | 14  | Jp        | Taylor      | M      | 14.0      | 0        |
-| 83  | Tim       | Taylor      | M      | 15.1      | 0        |
+| 83  | Tim       | Taylor      | M      | 15.4      | 0        |
 | 84  | Sherrie   | Taylor      | F      | 20.2      | 0        |
 | 25  | Mike      | Thomas      | M      | 5.9       | 0        |
 | 13  | Doug      | Tinker      | M      | 5.0       | 0        |
@@ -118,4 +118,4 @@
 | 44  | Garrett   | Young       | M      | 12.8      | 0        |
 | 50  | Gary      | Young       | M      | 1.8       | 0        |
 | 93  | Mark      | Zahorik     | M      | 10.3      | 0        |
-| 65  | Bill      | Zakareckis  | M      | 8.1       | 0        |
+| 65  | Bill      | Zakareckis  | M      | 8.0       | 0        |
