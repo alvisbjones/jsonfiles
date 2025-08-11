@@ -2,7 +2,7 @@
 |-----|-----------|-------------|--------|-----------|----------|
 | 32  | Dennis    | Ardizzoni   | M      | 7.2       | 0        |
 | 108 | Brad      | Balthrop    | M      | 11.2      | 0        |
-| 38  | Richard   | Blanford    | M      | 3.1       | 0        |
+| 38  | Richard   | Blanford    | M      | 2.8       | 0        |
 | 24  | Tim       | Bogert      | M      | 7.2       | 0        |
 | 89  | Steve     | Brigante    | M      | 8.8       | 0        |
 | 43  | Ken       | Burdette    | M      | 14.2      | 0        |
@@ -10,8 +10,8 @@
 | 42  | Tom       | Buttner     | M      | 17.1      | 0        |
 | 73  | Alfonso   | Cadena      | M      | 17.2      | 0        |
 | 64  | Steve     | Cardwell    | M      | 6.5       | 0        |
-| 8   | Dan       | Cervantes   | M      | 9.5       | 0        |
-| 90  | Bob       | Churchill   | M      | 9.6       | 0        |
+| 8   | Dan       | Cervantes   | M      | 9.8       | 0        |
+| 90  | Bob       | Churchill   | M      | 9.1       | 0        |
 | 56  | Ken       | Conway      | M      | 9.1       | 0        |
 | 80  | John      | Cooley      | M      | 6.4       | 0        |
 | 77  | Casey     | Corcoran    | M      | 6.4       | 0        |
@@ -25,7 +25,7 @@
 | 60  | Joan      | Garcia      | F      | 16.6      | 0        |
 | 104 | Rick      | Garcia      | M      | 11.9      | 0        |
 | 5   | John      | Gertas      | M      | 15.1      | 0        |
-| 27  | Bob       | Gibbons     | M      | 10.8      | 0        |
+| 27  | Bob       | Gibbons     | M      | 11.5      | 0        |
 | 62  | Stephen   | Graham      | M      | 11.6      | 0        |
 | 37  | Jim       | Gravley     | M      | 6.7       | 0        |
 | 28  | Rick      | Grimm       | M      | 14.6      | 0        |
@@ -41,7 +41,7 @@
 | 57  | Scott     | Jones       | M      | 14.3      | 0        |
 | 98  | Russell   | Jordan      | M      | 9.3       | 0        |
 | 109 | Thomas    | Jordan      | M      | 9.0       | 0        |
-| 35  | David     | Kelly       | M      | 15.8      | 0        |
+| 35  | David     | Kelly       | M      | 16.5      | 0        |
 | 36  | Seth      | Kelly       | M      | 18.9      | 0        |
 | 112 | Richard   | Kelly       | M      | 13.4      | 0        |
 | 61  | Jeff      | Kenny       | M      | 6.2       | 0        |
@@ -52,7 +52,7 @@
 | 91  | Tom       | Lahutsky    | M      | 8.5       | 0        |
 | 101 | Roger     | Lancaster   | M      | 6.5       | 0        |
 | 1   | Jeff      | Lance       | M      | 6.8       | 0        |
-| 86  | Marty     | Leister     | M      | 5.7       | 0        |
+| 86  | Marty     | Leister     | M      | 5.5       | 0        |
 | 15  | Karl      | Lewis       | M      | 4.5       | 0        |
 | 41  | Kevin     | Livesey     | M      | 9.6       | 0        |
 | 81  | Chuck     | Locke       | M      | 9.7       | 0        |
@@ -75,7 +75,7 @@
 | 7   | Mark      | Pablo       | M      | 10.8      | 0        |
 | 106 | Gyoungwon | Park        | M      | 0         | 0        |
 | 116 | Chris     | Peake       | M      | 14.8      | 0        |
-| 49  | Sue       | Poppens     | F      | 15.1      | 0        |
+| 49  | Sue       | Poppens     | F      | 14.9      | 0        |
 | 19  | Craig     | Prascher    | M      | 8.8       | 0        |
 | 12  | Scott     | Rigby       | M      | 5.1       | 0        |
 | 103 | Wendall   | Ritz        | M      | 13.6      | 0        |
