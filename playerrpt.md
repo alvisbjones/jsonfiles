@@ -69,13 +69,13 @@
 | 48  | David     | Montgomery  | M      | 5.7       | 0        |
 | 46  | Craig     | Morrison    | M      | 10.2      | 0        |
 | 59  | Vash      | Narula      | M      | 4.5       | 0        |
-| 118 | Steve     | O'Kelly     | M      | 1.3       | 0        |
+| 118 | Steve     | O'Kelly     | M      | 1.8       | 0        |
 | 70  | Joe       | Opiola      | M      | 8.0       | 0        |
 | 113 | Todd      | Osterling   | M      | 14.3      | 0        |
 | 7   | Mark      | Pablo       | M      | 10.8      | 0        |
 | 106 | Gyoungwon | Park        | M      | 0         | 0        |
-| 116 | Chris     | Peake       | M      | 14.8      | 0        |
-| 49  | Sue       | Poppens     | F      | 14.9      | 0        |
+| 116 | Chris     | Peake       | M      | 15.5      | 0        |
+| 49  | Sue       | Poppens     | F      | 15.1      | 0        |
 | 19  | Craig     | Prascher    | M      | 8.8       | 0        |
 | 12  | Scott     | Rigby       | M      | 5.1       | 0        |
 | 103 | Wendall   | Ritz        | M      | 13.6      | 0        |
@@ -83,7 +83,7 @@
 | 45  | Steve     | Ropp        | M      | 9.5       | 0        |
 | 29  | Ed        | Rose        | M      | 11.2      | 0        |
 | 82  | Chuck     | Roth        | M      | 10.8      | 0        |
-| 85  | Mike      | Saltmachia  | M      | 1.5       | 0        |
+| 85  | Mike      | Saltmachia  | M      | 1.6       | 0        |
 | 39  | Thomas    | Schattner   | M      | 4.6       | 0        |
 | 110 | Jeff      | Seekatz     | M      | 7.2       | 0        |
 | 34  | Justin    | Seymour     | M      | 9.4       | 0        |
