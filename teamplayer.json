@@ -150,103 +150,9 @@
         ]
     },
     {
-        "id": 6,
-        "name": "Deliberate Hackers",
-        "number": 4,
-        "players": [
-            {
-                "pid": 33,
-                "firstName": "Tom",
-                "lastName": "Maguire",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 9
-            },
-            {
-                "pid": 40,
-                "firstName": "Mark",
-                "lastName": "Weldele",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 15
-            },
-            {
-                "pid": 43,
-                "firstName": "Ken",
-                "lastName": "Burdette",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 14
-            },
-            {
-                "pid": 87,
-                "firstName": "Ron",
-                "lastName": "Burdette",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 9
-            },
-            {
-                "pid": 113,
-                "firstName": "Todd",
-                "lastName": "Osterling",
-                "email": "Tkosterling@yahoo.com",
-                "phone": "214-454-5676",
-                "hdcpIndex": 14
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Doctor is in",
-        "number": 5,
-        "players": [
-            {
-                "pid": 15,
-                "firstName": "Karl",
-                "lastName": "Lewis",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 4
-            },
-            {
-                "pid": 77,
-                "firstName": "Casey",
-                "lastName": "Corcoran",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 6
-            },
-            {
-                "pid": 85,
-                "firstName": "Mike",
-                "lastName": "Saltmachia",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 2
-            },
-            {
-                "pid": 111,
-                "firstName": "Jesse",
-                "lastName": "Simonson",
-                "email": "",
-                "phone": "",
-                "hdcpIndex": 6
-            },
-            {
-                "pid": 118,
-                "firstName": "Steve",
-                "lastName": "O'Kelly",
-                "email": "",
-                "phone": "",
-                "hdcpIndex": 2
-            }
-        ]
-    },
-    {
         "id": 12,
         "name": "We'll Do Better Next Year",
-        "number": 6,
+        "number": 4,
         "players": [
             {
                 "pid": 91,
@@ -285,7 +191,7 @@
     {
         "id": 13,
         "name": "Double Bogey Blues",
-        "number": 7,
+        "number": 5,
         "players": [
             {
                 "pid": 3,
@@ -324,7 +230,7 @@
     {
         "id": 14,
         "name": "The Muggers",
-        "number": 8,
+        "number": 6,
         "players": [
             {
                 "pid": 10,
@@ -369,56 +275,9 @@
         ]
     },
     {
-        "id": 15,
-        "name": "Mulligan's Heroes",
-        "number": 9,
-        "players": [
-            {
-                "pid": 65,
-                "firstName": "Bill",
-                "lastName": "Zakareckis",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 8
-            },
-            {
-                "pid": 83,
-                "firstName": "Tim",
-                "lastName": "Taylor",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 15
-            },
-            {
-                "pid": 84,
-                "firstName": "Sherrie",
-                "lastName": "Taylor",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 20
-            },
-            {
-                "pid": 108,
-                "firstName": "Brad",
-                "lastName": "Balthrop",
-                "email": "",
-                "phone": "",
-                "hdcpIndex": 11
-            },
-            {
-                "pid": 114,
-                "firstName": "Jerry",
-                "lastName": "Robbins",
-                "email": "jrsrkrkr@msn.com",
-                "phone": "214-202-5199",
-                "hdcpIndex": 15
-            }
-        ]
-    },
-    {
         "id": 16,
         "name": "Handicapped",
-        "number": 10,
+        "number": 7,
         "players": [
             {
                 "pid": 1,
@@ -465,7 +324,7 @@
     {
         "id": 17,
         "name": "TBD",
-        "number": 11,
+        "number": 8,
         "players": [
             {
                 "pid": 18,
@@ -520,7 +379,7 @@
     {
         "id": 18,
         "name": "Gopher Broke",
-        "number": 12,
+        "number": 9,
         "players": [
             {
                 "pid": 16,
