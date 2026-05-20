@@ -1,5 +1,6 @@
 | id  | firstName |  lastName   | gender | hdcpIndex | archived |
 |-----|-----------|-------------|--------|-----------|----------|
+| 120 | Michael   | Aragon      | M      | 14.6      | 0        |
 | 32  | Dennis    | Ardizzoni   | M      | 7.2       | 0        |
 | 108 | Brad      | Balthrop    | M      | 11.2      | 0        |
 | 38  | Richard   | Blanford    | M      | 2.8       | 0        |

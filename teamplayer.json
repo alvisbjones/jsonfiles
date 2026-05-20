@@ -100,14 +100,6 @@
         "number": 3,
         "players": [
             {
-                "pid": 13,
-                "firstName": "Doug",
-                "lastName": "Tinker",
-                "email": " ",
-                "phone": " ",
-                "hdcpIndex": 5
-            },
-            {
                 "pid": 24,
                 "firstName": "Tim",
                 "lastName": "Bogert",
@@ -124,20 +116,12 @@
                 "hdcpIndex": 15
             },
             {
-                "pid": 80,
-                "firstName": "John",
-                "lastName": "Cooley",
+                "pid": 87,
+                "firstName": "Ron",
+                "lastName": "Burdette",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 6
-            },
-            {
-                "pid": 110,
-                "firstName": "Jeff",
-                "lastName": "Seekatz",
-                "email": "",
-                "phone": "",
-                "hdcpIndex": 7
+                "hdcpIndex": 9
             },
             {
                 "pid": 116,
@@ -398,12 +382,28 @@
                 "hdcpIndex": 16
             },
             {
+                "pid": 37,
+                "firstName": "Jim",
+                "lastName": "Gravley",
+                "email": " ",
+                "phone": " ",
+                "hdcpIndex": 7
+            },
+            {
                 "pid": 59,
                 "firstName": "Vash",
                 "lastName": "Narula",
                 "email": " golfwalla@gmail.com",
                 "phone": " 214-709-3346",
                 "hdcpIndex": 4
+            },
+            {
+                "pid": 65,
+                "firstName": "Bill",
+                "lastName": "Zakareckis",
+                "email": " ",
+                "phone": " ",
+                "hdcpIndex": 8
             },
             {
                 "pid": 90,
@@ -422,12 +422,12 @@
                 "hdcpIndex": 13
             },
             {
-                "pid": 115,
-                "firstName": "Andy",
-                "lastName": "Higgins",
+                "pid": 120,
+                "firstName": "Michael",
+                "lastName": "Aragon",
                 "email": "",
                 "phone": "",
-                "hdcpIndex": 10
+                "hdcpIndex": 15
             }
         ]
     }
