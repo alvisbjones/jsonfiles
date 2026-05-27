@@ -7,7 +7,7 @@
 | 24  | Tim       | Bogert      | M      | 7.5       | 0        |
 | 89  | Steve     | Brigante    | M      | 8.8       | 0        |
 | 43  | Ken       | Burdette    | M      | 14.2      | 0        |
-| 87  | Ron       | Burdette    | M      | 8.6       | 0        |
+| 87  | Ron       | Burdette    | M      | 8.3       | 0        |
 | 42  | Tom       | Buttner     | M      | 17.1      | 0        |
 | 73  | Alfonso   | Cadena      | M      | 17.2      | 0        |
 | 64  | Steve     | Cardwell    | M      | 6.4       | 0        |
@@ -22,7 +22,7 @@
 | 67  | Brian     | Depaul      | M      | 18.2      | 0        |
 | 63  | Randy     | Depwe       | M      | 15.2      | 0        |
 | 51  | Les       | Dutcher     | M      | 11.0      | 0        |
-| 79  | Rex       | Foster      | M      | 4.8       | 0        |
+| 79  | Rex       | Foster      | M      | 4.9       | 0        |
 | 60  | Joan      | Garcia      | F      | 16.6      | 0        |
 | 104 | Rick      | Garcia      | M      | 11.9      | 0        |
 | 5   | John      | Gertas      | M      | 15.1      | 0        |
@@ -32,7 +32,7 @@
 | 28  | Rick      | Grimm       | M      | 14.2      | 0        |
 | 31  | Doc       | Haggard     | M      | 4.8       | 0        |
 | 96  | Tim       | Halliday    | M      | 6.1       | 0        |
-| 9   | Bill      | Harrell     | M      | 5.0       | 0        |
+| 9   | Bill      | Harrell     | M      | 5.3       | 0        |
 | 18  | Matt      | Harris      | M      | 19.6      | 0        |
 | 115 | Andy      | Higgins     | M      | 9.8       | 0        |
 | 72  | Alex      | Hill        | M      | 10.3      | 0        |
@@ -47,7 +47,7 @@
 | 112 | Richard   | Kelly       | M      | 13.4      | 0        |
 | 61  | Jeff      | Kenny       | M      | 6.2       | 0        |
 | 76  | Jordan    | Knowles     | M      | 3.6       | 0        |
-| 95  | David     | Knowles     | M      | 3.8       | 0        |
+| 95  | David     | Knowles     | M      | 3.9       | 0        |
 | 119 | Caelan    | Knowles     | M      | 8.1       | 0        |
 | 26  | Phil      | Laas        | M      | 7.3       | 0        |
 | 91  | Tom       | Lahutsky    | M      | 8.5       | 0        |
@@ -62,7 +62,7 @@
 | 58  | Ed        | MacHendrie  | M      | 5.2       | 0        |
 | 33  | Tom       | Maguire     | M      | 9.1       | 0        |
 | 102 | David     | Mauriello   | M      | 5.4       | 0        |
-| 21  | Robert    | McEntire    | M      | 11.5      | 0        |
+| 21  | Robert    | McEntire    | M      | 12.0      | 0        |
 | 100 | Terry     | McLachlan   | M      | 3.8       | 0        |
 | 92  | Dick      | Miller      | M      | 7.6       | 0        |
 | 78  | Mukesh    | Mirchandani | M      | 8.8       | 0        |
