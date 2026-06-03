@@ -11,7 +11,7 @@
 | 42  | Tom       | Buttner     | M      | 17.1      | 0        |
 | 73  | Alfonso   | Cadena      | M      | 17.2      | 0        |
 | 64  | Steve     | Cardwell    | M      | 6.4       | 0        |
-| 8   | Dan       | Cervantes   | M      | 9.9       | 0        |
+| 8   | Dan       | Cervantes   | M      | 10.2      | 0        |
 | 90  | Bob       | Churchill   | M      | 9.1       | 0        |
 | 56  | Ken       | Conway      | M      | 9.1       | 0        |
 | 80  | John      | Cooley      | M      | 6.4       | 0        |
@@ -22,7 +22,7 @@
 | 67  | Brian     | Depaul      | M      | 18.2      | 0        |
 | 63  | Randy     | Depwe       | M      | 15.2      | 0        |
 | 51  | Les       | Dutcher     | M      | 11.0      | 0        |
-| 79  | Rex       | Foster      | M      | 4.9       | 0        |
+| 79  | Rex       | Foster      | M      | 5.0       | 0        |
 | 60  | Joan      | Garcia      | F      | 16.6      | 0        |
 | 104 | Rick      | Garcia      | M      | 11.9      | 0        |
 | 5   | John      | Gertas      | M      | 15.1      | 0        |
@@ -47,7 +47,7 @@
 | 112 | Richard   | Kelly       | M      | 13.4      | 0        |
 | 61  | Jeff      | Kenny       | M      | 6.2       | 0        |
 | 76  | Jordan    | Knowles     | M      | 3.6       | 0        |
-| 95  | David     | Knowles     | M      | 3.9       | 0        |
+| 95  | David     | Knowles     | M      | 3.8       | 0        |
 | 119 | Caelan    | Knowles     | M      | 8.1       | 0        |
 | 26  | Phil      | Laas        | M      | 7.3       | 0        |
 | 91  | Tom       | Lahutsky    | M      | 8.5       | 0        |
@@ -55,9 +55,9 @@
 | 1   | Jeff      | Lance       | M      | 7.1       | 0        |
 | 86  | Marty     | Leister     | M      | 5.5       | 0        |
 | 15  | Karl      | Lewis       | M      | 4.5       | 0        |
-| 41  | Kevin     | Livesey     | M      | 9.2       | 0        |
+| 41  | Kevin     | Livesey     | M      | 9.8       | 0        |
 | 81  | Chuck     | Locke       | M      | 9.7       | 0        |
-| 10  | Kris      | Loia        | M      | 7.7       | 0        |
+| 10  | Kris      | Loia        | M      | 7.9       | 0        |
 | 2   | Tim       | Lowrey      | M      | 15.2      | 0        |
 | 58  | Ed        | MacHendrie  | M      | 5.2       | 0        |
 | 33  | Tom       | Maguire     | M      | 9.1       | 0        |
