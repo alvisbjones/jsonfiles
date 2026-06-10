@@ -21,18 +21,18 @@
 | 66  | Chris     | Davis       | M      | 12.4      | 0        |
 | 67  | Brian     | Depaul      | M      | 18.2      | 0        |
 | 63  | Randy     | Depwe       | M      | 15.2      | 0        |
-| 51  | Les       | Dutcher     | M      | 11.0      | 0        |
-| 79  | Rex       | Foster      | M      | 5.0       | 0        |
+| 51  | Les       | Dutcher     | M      | 11.4      | 0        |
+| 79  | Rex       | Foster      | M      | 4.9       | 0        |
 | 60  | Joan      | Garcia      | F      | 16.6      | 0        |
 | 104 | Rick      | Garcia      | M      | 11.9      | 0        |
 | 5   | John      | Gertas      | M      | 15.1      | 0        |
 | 27  | Bob       | Gibbons     | M      | 11.5      | 0        |
-| 62  | Stephen   | Graham      | M      | 11.6      | 0        |
+| 62  | Stephen   | Graham      | M      | 11.8      | 0        |
 | 37  | Jim       | Gravley     | M      | 6.7       | 0        |
-| 28  | Rick      | Grimm       | M      | 14.2      | 0        |
+| 28  | Rick      | Grimm       | M      | 14.0      | 0        |
 | 31  | Doc       | Haggard     | M      | 4.8       | 0        |
 | 96  | Tim       | Halliday    | M      | 6.1       | 0        |
-| 9   | Bill      | Harrell     | M      | 5.3       | 0        |
+| 9   | Bill      | Harrell     | M      | 5.6       | 0        |
 | 18  | Matt      | Harris      | M      | 19.6      | 0        |
 | 115 | Andy      | Higgins     | M      | 9.8       | 0        |
 | 72  | Alex      | Hill        | M      | 10.3      | 0        |
@@ -55,7 +55,7 @@
 | 1   | Jeff      | Lance       | M      | 7.1       | 0        |
 | 86  | Marty     | Leister     | M      | 5.5       | 0        |
 | 15  | Karl      | Lewis       | M      | 4.5       | 0        |
-| 41  | Kevin     | Livesey     | M      | 9.8       | 0        |
+| 41  | Kevin     | Livesey     | M      | 9.6       | 0        |
 | 81  | Chuck     | Locke       | M      | 9.7       | 0        |
 | 10  | Kris      | Loia        | M      | 7.9       | 0        |
 | 2   | Tim       | Lowrey      | M      | 15.2      | 0        |
@@ -76,7 +76,7 @@
 | 7   | Mark      | Pablo       | M      | 10.8      | 0        |
 | 106 | Gyoungwon | Park        | M      | 0         | 0        |
 | 116 | Chris     | Peake       | M      | 15.5      | 0        |
-| 49  | Sue       | Poppens     | F      | 15.1      | 0        |
+| 49  | Sue       | Poppens     | F      | 15.0      | 0        |
 | 19  | Craig     | Prascher    | M      | 8.8       | 0        |
 | 12  | Scott     | Rigby       | M      | 5.1       | 0        |
 | 103 | Wendall   | Ritz        | M      | 13.6      | 0        |
@@ -119,4 +119,4 @@
 | 44  | Garrett   | Young       | M      | 12.8      | 0        |
 | 50  | Gary      | Young       | M      | 1.8       | 0        |
 | 93  | Mark      | Zahorik     | M      | 10.3      | 0        |
-| 65  | Bill      | Zakareckis  | M      | 7.5       | 0        |
+| 65  | Bill      | Zakareckis  | M      | 7.0       | 0        |
