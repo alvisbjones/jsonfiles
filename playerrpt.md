@@ -11,7 +11,7 @@
 | 42  | Tom       | Buttner     | M      | 17.1      | 0        |
 | 73  | Alfonso   | Cadena      | M      | 17.2      | 0        |
 | 64  | Steve     | Cardwell    | M      | 6.4       | 0        |
-| 8   | Dan       | Cervantes   | M      | 10.4      | 0        |
+| 8   | Dan       | Cervantes   | M      | 11.0      | 0        |
 | 90  | Bob       | Churchill   | M      | 9.1       | 0        |
 | 56  | Ken       | Conway      | M      | 9.1       | 0        |
 | 80  | John      | Cooley      | M      | 6.4       | 0        |
@@ -22,14 +22,14 @@
 | 67  | Brian     | Depaul      | M      | 18.2      | 0        |
 | 63  | Randy     | Depwe       | M      | 15.2      | 0        |
 | 51  | Les       | Dutcher     | M      | 11.4      | 0        |
-| 79  | Rex       | Foster      | M      | 4.9       | 0        |
+| 79  | Rex       | Foster      | M      | 5.0       | 0        |
 | 60  | Joan      | Garcia      | F      | 16.6      | 0        |
 | 104 | Rick      | Garcia      | M      | 11.9      | 0        |
 | 5   | John      | Gertas      | M      | 15.1      | 0        |
 | 27  | Bob       | Gibbons     | M      | 11.5      | 0        |
 | 62  | Stephen   | Graham      | M      | 11.8      | 0        |
-| 37  | Jim       | Gravley     | M      | 6.7       | 0        |
-| 28  | Rick      | Grimm       | M      | 14.0      | 0        |
+| 37  | Jim       | Gravley     | M      | 6.6       | 0        |
+| 28  | Rick      | Grimm       | M      | 13.8      | 0        |
 | 31  | Doc       | Haggard     | M      | 4.8       | 0        |
 | 96  | Tim       | Halliday    | M      | 6.1       | 0        |
 | 9   | Bill      | Harrell     | M      | 5.6       | 0        |
@@ -40,7 +40,7 @@
 | 47  | Lee       | Hubbard     | M      | 6.9       | 0        |
 | 4   | Brent     | Jones       | M      | 4.0       | 0        |
 | 57  | Scott     | Jones       | M      | 14.3      | 0        |
-| 98  | Russell   | Jordan      | M      | 9.3       | 0        |
+| 98  | Russell   | Jordan      | M      | 9.1       | 0        |
 | 109 | Thomas    | Jordan      | M      | 9.6       | 0        |
 | 35  | David     | Kelly       | M      | 16.5      | 0        |
 | 36  | Seth      | Kelly       | M      | 18.9      | 0        |
@@ -61,7 +61,7 @@
 | 2   | Tim       | Lowrey      | M      | 15.2      | 0        |
 | 58  | Ed        | MacHendrie  | M      | 5.2       | 0        |
 | 33  | Tom       | Maguire     | M      | 9.1       | 0        |
-| 102 | David     | Mauriello   | M      | 5.2       | 0        |
+| 102 | David     | Mauriello   | M      | 5.4       | 0        |
 | 21  | Robert    | McEntire    | M      | 12.0      | 0        |
 | 100 | Terry     | McLachlan   | M      | 3.8       | 0        |
 | 92  | Dick      | Miller      | M      | 7.6       | 0        |
@@ -82,7 +82,7 @@
 | 103 | Wendall   | Ritz        | M      | 13.6      | 0        |
 | 114 | Jerry     | Robbins     | M      | 14.7      | 0        |
 | 45  | Steve     | Ropp        | M      | 9.5       | 0        |
-| 29  | Ed        | Rose        | M      | 11.2      | 0        |
+| 29  | Ed        | Rose        | M      | 11.1      | 0        |
 | 82  | Chuck     | Roth        | M      | 10.8      | 0        |
 | 85  | Mike      | Saltmachia  | M      | 1.6       | 0        |
 | 39  | Thomas    | Schattner   | M      | 4.6       | 0        |
@@ -90,7 +90,7 @@
 | 34  | Justin    | Seymour     | M      | 9.4       | 0        |
 | 11  | Jeff      | Sherer      | M      | 7.3       | 0        |
 | 111 | Jesse     | Simonson    | M      | 5.5       | 0        |
-| 3   | Tim       | Smith       | M      | 4.4       | 0        |
+| 3   | Tim       | Smith       | M      | 4.3       | 0        |
 | 74  | Josh      | Smith       | M      | -0.8      | 0        |
 | 88  | John      | Sopko       | M      | 23.1      | 0        |
 | 69  | Bob       | Spain       | M      | 4.5       | 0        |
@@ -110,7 +110,7 @@
 | 99  | Brad      | Weldon      | M      | 7.0       | 0        |
 | 107 | Steve     | Wendler     | M      | 0         | 0        |
 | 94  | John      | West        | M      | 5.2       | 0        |
-| 97  | Mike      | Williamson  | M      | 2.3       | 0        |
+| 97  | Mike      | Williamson  | M      | 2.8       | 0        |
 | 23  | Gary      | Wiseman     | M      | 3.9       | 0        |
 | 68  | Dale      | Wommack     | M      | 11.5      | 0        |
 | 20  | Steve     | Wu          | M      | 4.3       | 0        |

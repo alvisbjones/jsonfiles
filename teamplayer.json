@@ -11,7 +11,7 @@
                 "lastName": "Cervantes",
                 "email": "dancervantes@sbcglobal.net",
                 "phone": " ",
-                "hdcpIndex": 10
+                "hdcpIndex": 11
             },
             {
                 "pid": 38,
@@ -36,6 +36,14 @@
                 "email": "mleister60@hotmail.com",
                 "phone": " ",
                 "hdcpIndex": 6
+            },
+            {
+                "pid": 97,
+                "firstName": "Mike",
+                "lastName": "Williamson",
+                "email": " ",
+                "phone": " ",
+                "hdcpIndex": 3
             }
         ]
     },
