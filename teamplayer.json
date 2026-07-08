@@ -58,7 +58,7 @@
                 "lastName": "Jones",
                 "email": "alvisbjones@gmail.com",
                 "phone": "214-649-2059",
-                "hdcpIndex": 4
+                "hdcpIndex": 5
             },
             {
                 "pid": 9,
@@ -177,6 +177,14 @@
                 "email": "thomas.ed.jordan@gmail.com",
                 "phone": "",
                 "hdcpIndex": 10
+            },
+            {
+                "pid": 121,
+                "firstName": "Nick",
+                "lastName": "Jordan",
+                "email": "",
+                "phone": "",
+                "hdcpIndex": 14
             }
         ]
     },
@@ -277,7 +285,7 @@
                 "lastName": "Rose",
                 "email": " ",
                 "phone": " ",
-                "hdcpIndex": 11
+                "hdcpIndex": 12
             },
             {
                 "pid": 76,
