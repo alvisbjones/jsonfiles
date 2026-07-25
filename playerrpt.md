@@ -21,7 +21,7 @@
 | 66  | Chris     | Davis       | M      | 12.4      | 0        |
 | 67  | Brian     | Depaul      | M      | 18.2      | 0        |
 | 63  | Randy     | Depwe       | M      | 15.2      | 0        |
-| 51  | Les       | Dutcher     | M      | 10.9      | 0        |
+| 51  | Les       | Dutcher     | M      | 10.4      | 0        |
 | 79  | Rex       | Foster      | M      | 4.7       | 0        |
 | 60  | Joan      | Garcia      | F      | 16.6      | 0        |
 | 104 | Rick      | Garcia      | M      | 11.9      | 0        |
@@ -33,14 +33,14 @@
 | 31  | Doc       | Haggard     | M      | 4.8       | 0        |
 | 96  | Tim       | Halliday    | M      | 6.1       | 0        |
 | 9   | Bill      | Harrell     | M      | 5.7       | 0        |
-| 18  | Matt      | Harris      | M      | 19.6      | 0        |
+| 18  | Matt      | Harris      | M      | 19.4      | 0        |
 | 115 | Andy      | Higgins     | M      | 9.8       | 0        |
 | 72  | Alex      | Hill        | M      | 10.3      | 0        |
 | 54  | Frank     | Holomshek   | M      | 1.9       | 0        |
 | 47  | Lee       | Hubbard     | M      | 6.9       | 0        |
 | 4   | Brent     | Jones       | M      | 4.7       | 0        |
 | 57  | Scott     | Jones       | M      | 14.3      | 0        |
-| 98  | Russell   | Jordan      | M      | 9.1       | 0        |
+| 98  | Russell   | Jordan      | M      | 8.7       | 0        |
 | 109 | Thomas    | Jordan      | M      | 10.0      | 0        |
 | 121 | Nick      | Jordan      | M      | 14.3      | 0        |
 | 35  | David     | Kelly       | M      | 16.3      | 0        |
@@ -63,7 +63,7 @@
 | 58  | Ed        | MacHendrie  | M      | 5.2       | 0        |
 | 33  | Tom       | Maguire     | M      | 9.1       | 0        |
 | 102 | David     | Mauriello   | M      | 5.0       | 0        |
-| 21  | Robert    | McEntire    | M      | 12.0      | 0        |
+| 21  | Robert    | McEntire    | M      | 11.6      | 0        |
 | 100 | Terry     | McLachlan   | M      | 3.8       | 0        |
 | 92  | Dick      | Miller      | M      | 7.6       | 0        |
 | 78  | Mukesh    | Mirchandani | M      | 8.8       | 0        |
