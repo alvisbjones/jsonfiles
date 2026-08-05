@@ -11,8 +11,8 @@
 | 42  | Tom       | Buttner     | M      | 17.1      | 0        |
 | 73  | Alfonso   | Cadena      | M      | 17.2      | 0        |
 | 64  | Steve     | Cardwell    | M      | 6.4       | 0        |
-| 8   | Dan       | Cervantes   | M      | 11.3      | 0        |
-| 90  | Bob       | Churchill   | M      | 10.4      | 0        |
+| 8   | Dan       | Cervantes   | M      | 11.0      | 0        |
+| 90  | Bob       | Churchill   | M      | 10.5      | 0        |
 | 56  | Ken       | Conway      | M      | 9.1       | 0        |
 | 80  | John      | Cooley      | M      | 6.4       | 0        |
 | 77  | Casey     | Corcoran    | M      | 6.4       | 0        |
@@ -40,7 +40,7 @@
 | 47  | Lee       | Hubbard     | M      | 6.9       | 0        |
 | 4   | Brent     | Jones       | M      | 4.7       | 0        |
 | 57  | Scott     | Jones       | M      | 14.3      | 0        |
-| 98  | Russell   | Jordan      | M      | 8.7       | 0        |
+| 98  | Russell   | Jordan      | M      | 9.0       | 0        |
 | 109 | Thomas    | Jordan      | M      | 10.3      | 0        |
 | 121 | Nick      | Jordan      | M      | 14.3      | 0        |
 | 35  | David     | Kelly       | M      | 16.5      | 0        |
@@ -56,7 +56,7 @@
 | 1   | Jeff      | Lance       | M      | 7.5       | 0        |
 | 86  | Marty     | Leister     | M      | 6.4       | 0        |
 | 15  | Karl      | Lewis       | M      | 4.5       | 0        |
-| 41  | Kevin     | Livesey     | M      | 9.6       | 0        |
+| 41  | Kevin     | Livesey     | M      | 9.8       | 0        |
 | 81  | Chuck     | Locke       | M      | 9.7       | 0        |
 | 10  | Kris      | Loia        | M      | 8.1       | 0        |
 | 2   | Tim       | Lowrey      | M      | 15.2      | 0        |
@@ -91,7 +91,7 @@
 | 34  | Justin    | Seymour     | M      | 9.4       | 0        |
 | 11  | Jeff      | Sherer      | M      | 7.3       | 0        |
 | 111 | Jesse     | Simonson    | M      | 5.5       | 0        |
-| 3   | Tim       | Smith       | M      | 4.3       | 0        |
+| 3   | Tim       | Smith       | M      | 4.6       | 0        |
 | 74  | Josh      | Smith       | M      | -0.8      | 0        |
 | 88  | John      | Sopko       | M      | 23.1      | 0        |
 | 69  | Bob       | Spain       | M      | 4.5       | 0        |
@@ -120,4 +120,4 @@
 | 44  | Garrett   | Young       | M      | 12.8      | 0        |
 | 50  | Gary      | Young       | M      | 1.8       | 0        |
 | 93  | Mark      | Zahorik     | M      | 10.3      | 0        |
-| 65  | Bill      | Zakareckis  | M      | 5.6       | 0        |
+| 65  | Bill      | Zakareckis  | M      | 5.0       | 0        |
